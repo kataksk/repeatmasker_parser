@@ -1,14 +1,13 @@
-usage:
+## Usage
 
+```
 python repeatlandscape_html_to_csv.py -l repeatlandscape.html -s speceis_name
+```
+
+Convert from RepeatLandscape html result file to csv format file. A file named as YOUR_SPECIES_repeatlandscape.csv will be generated in your current directory.
 
 
-Convert from RepeatLandscape html result file to csv format file.
-
-A file named as YOUR_SPECIES_repeatlandscape.csv will be generated in your current directory.
-
-
-optional arguments:
+## Arguments:
 
 -h, --help            show this help message and exit
 

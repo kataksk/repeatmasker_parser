@@ -50,7 +50,7 @@ with open(out_in, 'r') as f:
 
 # print(output)
 
-file_name = species + '_intron.gff'
+file_name = species + '_repeat.gff'
 f = open(file_name, 'w')
 f.write(output)
 f.close()
